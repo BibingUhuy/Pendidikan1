@@ -1,0 +1,16 @@
+{
+  "name": "pendidikan1",
+  "version": "1.0.0",
+  "description": "Platform pembelajaran online dengan tampilan sederhana.",
+  "main": "index.html",
+  "scripts": {
+    "start": "lite-server",
+    "build": "echo 'Build step not configured yet.'"
+  },
+  "author": "CeroDev",
+  "license": "MIT",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "devDependencies": {}
+}
